@@ -16,7 +16,7 @@ Nguyễn Đức Tài- 20120568
 
 ## Upload
 1. Open terminal tại folder làm việc
-2. Chạy các lệnh sau 
+2. Chạy các lệnh sau <br>
     git add.
 
     git commit -m "điền nội dung commit vào đây"
