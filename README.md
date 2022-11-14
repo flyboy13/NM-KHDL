@@ -1,5 +1,5 @@
 # NM-KHDL
 Đồ án KHDL
 
-Thành viên
+Thành viên /n
 Nguyễn Đức Tài- 20120568
