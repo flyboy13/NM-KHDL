@@ -22,7 +22,7 @@
 
     git push origin master
  
- ##Update code from Github
+## Update code from Github
  1. Open terminal tại folder làm việc
 2. Chạy lệnh sau <br>
     git pull
