@@ -26,6 +26,13 @@
  1. Open terminal tại folder làm việc
 2. Chạy lệnh sau <br>
     git pull
+
+## Chia nhánh git
+B1. git branch <Tên của mình> <br>
+B2. git add . <br>
+B3. git commit -m "điền nội dung commit vào đây" <br>
+B4. git push<br>
+
  
     
 ## Author <br>
