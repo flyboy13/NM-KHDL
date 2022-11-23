@@ -30,3 +30,6 @@
     
 ## Author <br>
 Nguyễn Đức Tài - 20120568
+Nguyễn Đăng Khương - 20120516
+Bùi Hồng Dương - 20120273
+Hoàng Đức Nhật Minh - 20120328
