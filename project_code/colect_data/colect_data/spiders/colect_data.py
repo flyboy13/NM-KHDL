@@ -3,16 +3,13 @@ import json
 
 class collect_player_info(scrapy.Spider):
     name='Get_Data'
-    #Num of page need to get data
 
     def __init__(self):
         self.page_count = 2
-        self.num_page = 200
-
-
+        self.num_page = 300 #Num of page need to get data
 
     def start_requests(self):
-        urls = ['https://ancu.me/cho-thue-nha-tro-phong-tro/t1']
+        urls = ['https://ancu.me/cho-thue-nha-tro-phong-tro-thanh-pho-ho-chi-minh/t1']
         # YOUR CODE HERE
         yield scrapy.Request(urls[0], callback=self.parse)
 
@@ -27,10 +24,16 @@ class collect_player_info(scrapy.Spider):
             Date = response.xpath(path).css('div.date::text').get()
             Id = response.xpath(path).css('a.name::attr(href)').get()
             Id = Id[Id.index('ad')+2:Id.index('.html')]
-            yield {'Id: ': Id, 'Title: ': name, 'Price: ': priceAndSquare[0], 'Square: ': priceAndSquare[1], 'District: ': DistrictAndCity[0], 'City: ': DistrictAndCity[1], 'Date: ': Date   }
+            yield {
+                'Id': Id, 
+                'Title': name, 
+                'Price': priceAndSquare[0], 
+                'Square': priceAndSquare[1], 
+                'District': DistrictAndCity[0], 
+                'City': DistrictAndCity[1], 
+                'Date': Date
+                }
         if self.page_count < self.num_page:
-            next_page_url = 'https://ancu.me/cho-thue-nha-tro-phong-tro/t' + str(self.page_count)
+            next_page_url = 'https://ancu.me/cho-thue-nha-tro-phong-tro-thanh-pho-ho-chi-minh/t' + str(self.page_count)
             self.page_count += 1
             yield scrapy.Request(next_page_url, callback=self.parse) 
-# scrapy shell 'https://rongbay.com/Toan-quoc/Nha-tro-Phong-tro-Thue-va-cho-thue-nha-c272-t788.html'
-# response.xpath('//*[@id="ListItemChoThueForm"]/div/div[2]/div[1]/h1/text()').get()
