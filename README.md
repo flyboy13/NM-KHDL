@@ -8,7 +8,7 @@
 1. Chọn folder muốn lưu
 2. Chuột phải vào ô trống, chọn "Open in Terminal", "Git GUI here" hoặc "Git Bash here"
 3. CLI vs GUI: <br>
-    Cách 1. Nếu sử dụng Terminal, Powershell, git bash, copy đoạn mã dưới vào và Enter
+    Cách 1. Nếu sử dụng Terminal, Powershell, git bash, copy đoạn mã dưới vào và Enter <br>
     git clone https://github.com/flyboy13/NM-KHDL.git
     
     Cách 2. Nếu sử dụng git GUI, chọn "Clone Existing Repository" với Source Code `https://github.com/flyboy13/NM-KHDL.git` và Target Directory tùy thích
@@ -29,7 +29,7 @@
  
     
 ## Author <br>
-Nguyễn Đức Tài - 20120568
-Nguyễn Đăng Khương - 20120516
-Bùi Hồng Dương - 20120273
-Hoàng Đức Nhật Minh - 20120328
+Nguyễn Đức Tài - 20120568 <br>
+Nguyễn Đăng Khương - 20120516 <br>
+Bùi Hồng Dương - 20120273 <br>
+Hoàng Đức Nhật Minh - 20120328 <br>
