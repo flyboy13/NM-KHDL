@@ -23,7 +23,7 @@ class collect_player_info(scrapy.Spider):
             DistrictAndCity = response.xpath(path).css('div.info-item a::text').getall()
             Date = response.xpath(path).css('div.date::text').get()
             Id = response.xpath(path).css('a.name::attr(href)').get()
-            Id = Id[Id.index('ad')+2:Id.index('.html')]
+            Id = Id[Id.index('-ad')+2:Id.index('.html')]
             yield {
                 'Id': Id, 
                 'Title': name, 
