@@ -6,7 +6,7 @@ class collect_player_info(scrapy.Spider):
 
     def __init__(self):
         self.page_count = 2
-        self.num_page = 300 #Num of page need to get data
+        self.num_page = 80 #Num of page need to get data
 
     def start_requests(self):
         urls = ['https://ancu.me/cho-thue-nha-tro-phong-tro-thanh-pho-ho-chi-minh/t1']
