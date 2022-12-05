@@ -26,7 +26,6 @@ Id,Title,Price(Triệu/tháng),Square(m²),District,City,Date
 840925,"Phòng cho thuê mới, đẹp, tiện nghi gần ĐH Công Nghiệp, P5, Gò Vấp",4.2,30.0,Gò Vấp,Hồ Chí Minh,13/10/2018 
 841089,"Nhà trọ cao cấp full nội thất, sát hong chợ Bà Chiểu ",4.5,24.0,Bình Thạnh,Hồ Chí Minh,15/10/2018 
 841185,"Nhà trọ giá rẻ đường Bùi Thị Xuân, quận Tân Bình, Hồ Chí Minh",2.5,20.0,Tân Bình,Hồ Chí Minh,15/10/2018 
-841207,Cho thuê phòng quận 4 đường vân đồn giáp quận 1 tphcm,3500.0,45.0,Quận 4,Hồ Chí Minh,15/10/2018 
 841467,"Quận 10 đắt đỏ, chỗ nào cho thuê trọ KTX, 450 nghìn/tháng",0.45,,Quận 10,Hồ Chí Minh,30/09/2018 
 841540,"Cho thuê căn hộ dịch vụ mới xây xong view sông trung tâm Sài Gòn, giá 5,5 - 8 triệu",5.5,,Quận 7,Hồ Chí Minh,01/10/2018 
 841564,"KTX sạch , văn minh (gần KCX Tân thuận ) giá từ 450 k tại 150 Nguyễn thị thập ",0.45,25.0,Quận 7,Hồ Chí Minh,09/10/2018 
@@ -132,15 +131,15 @@ Id,Title,Price(Triệu/tháng),Square(m²),District,City,Date
 872828,CĂN HỘ 1 PHÒNG NGỦ 35M2 - ĐẦY ĐỦ NỘI THẤT - MỚI XÂY 100% TẠI ĐƯỜNG VƯỜN LÀI - 5 TRIỆU/THÁNG,5.0,35.0,Tân Phú,Hồ Chí Minh,17/10/2018 
 873581,"Phòng cho thuê đầy đủ tiện nghi: Bếp, Máy lạnh, máy nóng/lạnh, bảo vệ 24/7, nhà để xe. Giá: 3,3tr",3.3,22.0,Quận 4,Hồ Chí Minh,19/10/2018 
 873886,"Cho thuê phòng trọ khu vực Phan Xích Long gần chợ, siêu thị và công viên",1.8,15.0,Phú Nhuận,Hồ Chí Minh,20/10/2018 
-873934,"PHÒNG ĐẦY ĐỦ TIỆN NGHI CÓ KỆ BẾP NGAY CẦU THỊ NGHÈ, NGUYỄN CỬU VÂN, Q. BÌNH THẠNH, 18M2 - 5 TR/TH",5.0,20.0,Bình Thạnh,Hồ Chí Minh,20/10/2018 
+873934,"PHÒNG ĐẦY ĐỦ TIỆN NGHI CÓ KỆ BẾP NGAY CẦU THỊ NGHÈ, NGUYỄN CỬU VÂN, Q. BÌNH THẠNH, 18M2 - 5 TR/TH",5.0,20.0,Bình Thạnh,Hồ Chí Minh,  20/10/2018 
 873938,"CĂN HỘ STUDIO CAO CẤP ĐẦY ĐỦ TIỆN NGHI CÓ KỆ BẾP NGAY CMT8, BÀNH VĂN TRÂN 20M2, 4.9TR/TH",4.9,20.0,Tân Bình,Hồ Chí Minh,20/10/2018 
 874112,"Chính chủ cho thuê phòng trọ cao cấp trung tâm quận 1, LH 0901624787",7.5,25.0,Quận 1,Hồ Chí Minh,21/10/2018 
 874206,"Phòng trọ sạch sẽ, có máy lạnh",3.2,15.0,Quận 10,Hồ Chí Minh,22/10/2018 
 874357,"Phòng sạch sẽ thoáng mát, khu trung tâm, hẻm xe hơi, giá thuê 2trđ/ tháng",2.0,,Quận 3,Hồ Chí Minh,22/10/2018 
 874543,HOT HOT!!!! Căn hộ mini giá rẻ trung tâm Quận Phú Nhuận,5.8,25.0,Phú Nhuận,Hồ Chí Minh,22/10/2018 
 874828,"Phòng trọ tiện nghi ngay Bùi Đình Túy, quận Bình Thạnh, 14m2, 3.5 tr/th",3.5,14.0,Bình Thạnh,Hồ Chí Minh,22/10/2018 
-875020,"Phòng đẹp khép kín mới xây, giá rẻ nhất Q.Gò Vấp",3.2,17.0,Gò Vấp,Hồ Chí Minh,23/10/2018 
-875272,Phòng FULL nộ thất Thảo điền cách ngã 4 hàng xanh 3km. Gía 4.5tr lh O961510324 Thành,,,Quận 2,Hồ Chí Minh, 23/10/2018 
+875020,"Phòng đẹp khép kín mới xây, giá rẻ nhất Q.Gò Vấp",3.2,17.0,Gò Vấp,Hồ Chí Minh,23/10/2018  
+875272,Phòng FULL nộ thất Thảo điền cách ngã 4 hàng xanh 3km. Gía 4.5tr lh O961510324 Thành,,,Quận 2,Hồ Chí Minh,23/10/2018 
 877526,KÝ TÚC XÁ SINH VIÊN GIÁ 450K KV BÌNH THẠNH,0.45,25.0,Bình Thạnh,Hồ Chí Minh,24/10/2018 
 877987,Ở ghép KTX máy lạnh gần ĐH Hutech đường Ung Văn Khiêm giá 450 nghìn/tháng,0.45,,Bình Thạnh,Hồ Chí Minh,24/10/2018 
 878090,"Cho thuê phòng trọ ngay trung tâm quận 4, nhà mới, nội thất mới",5.3,25.0,Quận 4,Hồ Chí Minh,24/10/2018 
@@ -170,7 +169,7 @@ Id,Title,Price(Triệu/tháng),Square(m²),District,City,Date
 886529,"Cho thuê phòng mới full nội thất đường Ung Văn Khiêm, quận Bình Thạnh - 0933396482",4.8,18.0,Bình Thạnh,Hồ Chí Minh,25/10/2018 
 887637,"Phòng đẹp cho thuê trong chung cư mini Đủ Tiện Nghi - MT Trường Chinh, DT: 20 – 35m2 (Có Thang Máy)",3.0,25.0,Tân Phú,Hồ Chí Minh,25/10/2018 
 888128,PHÒNG CHO THUÊ SẠCH SẼ THOÁNG MÁT NGAY TRUNG TÂM QUẬN PHÚ NHUẬN,4.5,,Phú Nhuận,Hồ Chí Minh,25/10/2018 
-888466,Phòng MINI CAO CẤP GIÁ RẺ QUẬN ️,6.0,27.0,Quận 1,Hồ Chí Minh, 25/10/2018 
+888466,Phòng MINI CAO CẤP GIÁ RẺ QUẬN ️,6.0,27.0,Quận 1,Hồ Chí Minh,25/10/2018 
 889879,"Cho thuê phòng mới giờ tự do gần ĐH Nguyễn Tất Thành, Quận 4. 3tr/th ở 3-4 người LH 0903.12.08.21",3.0,20.0,Quận 4,Hồ Chí Minh,25/10/2018 
 889918,"Căn hộ chung cư nguyễn văn lượng 3, cạnh UB phường 16 đường Thống Nhất, rộng, yên tĩnh, giá rẻ",4.5,60.0,Gò Vấp,Hồ Chí Minh,25/10/2018 
 889964,"Căn hộ mini chính chủ, đường Bạch Đằng, ban công thoáng mát, wc riêng, mới, sạch đẹp, giá rẻ",3.5,20.0,Bình Thạnh,Hồ Chí Minh,25/10/2018 
@@ -186,7 +185,7 @@ Id,Title,Price(Triệu/tháng),Square(m²),District,City,Date
 893617,"KTX máy lạnh 450k tại 7 Bạch Đằng, Q. Tân Bình",0.45,,Tân Bình,Hồ Chí Minh,26/10/2018 
 894777,"Cho Thuê Căn Hộ Đây Đủ Nội Thất Đường Mạc Đĩnh Chi, Q1, DT: 15m2, Giá 6.5 tr, Bao Điện Nước ",6.5,15.0,Quận 1,Hồ Chí Minh,26/10/2018 
 894900,"Phòng cao cấp mới xây, ngay cầu Kênh Tẻ, trung tâm Quận 4",5.3,25.0,Quận 4,Hồ Chí Minh,26/10/2018 
-895251,"Cho thuê phòng thiết kế đẹp đầy đủ tiện nghi giờ giấc tự do, giá chỉ 4 triệu/tháng. LH 0909638485",4.0,22.0,Tân Bình,Hồ Chí Minh,26/10/2018  
+895251,"Cho thuê phòng thiết kế đẹp đầy đủ tiện nghi giờ giấc tự do, giá chỉ 4 triệu/tháng. LH 0909638485",4.0,22.0,Tân Bình,Hồ Chí Minh,26/10/2018 
 897071,"Cho thuê phòng nhỏ tại 406/25 Xô Viết Nghệ Tĩnh, P25, Q Bình Thạnh.",1.0,,Bình Thạnh,Hồ Chí Minh,26/10/2018 
 897901,"Cho thuê phòng trọ đầy đủ nội thất, đường Hoàng Hoa Thám, khu quân đội, giá 7tr/tháng",7.0,45.0,Tân Bình,Hồ Chí Minh,26/10/2018 
 898086,Phòng cho thuê gần sân bay Tân Sơn Nhất,5.5,30.0,Tân Bình,Hồ Chí Minh,26/10/2018 
@@ -210,7 +209,7 @@ Id,Title,Price(Triệu/tháng),Square(m²),District,City,Date
 903689,GẤP GẤP! CHO THUÊ PHÒNG TRỌ ĐƯỜNG D2 P.25 BÌNH THẠNH.PHÒNG Ơ ĐC 4 NGƯỜI. LH:0909.505.752,4.5,28.0,Bình Thạnh,Hồ Chí Minh,28/10/2018 
 903835,Cho thuê căn hộ đầy đủ nội thất ngay trung tâm Q1,7.5,30.0,Quận 1,Hồ Chí Minh,28/10/2018 
 904424,"KTX giá rẻ 450k/th có máy lạnh, máy nước nóng, Wifi, đầy đủ tiện nghi tại Bình Thanh",0.45,,Bình Thạnh,Hồ Chí Minh,29/10/2018 
-905566,Cho thuê căn hộ full nội thất 30m2 đường Xô Viết Nghệ Tĩnh gần cầu Thị Nghè giá 6tr LH:0907199636,6.0,30.0,Bình Thạnh,Hồ Chí Minh,29/10/2018 
+905566,Cho thuê căn hộ full nội thất 30m2 đường Xô Viết Nghệ Tĩnh gần cầu Thị Nghè giá 6tr LH:0907199636,6.0,30.0,Bình Thạnh,Hồ Chí Minh,29/10/2018  
 905784,Cho thuê phòng cao cấp tại 554/13 Phạm Văn Đồng,3.7,17.0,Bình Thạnh,Hồ Chí Minh,29/10/2018 
 906571,"Phòng trọ có view bếp cực đẹp full nội thất Nguyễn Thái Sơn,Gò Vấp giá 5.5tr/th",5.5,45.0,Gò Vấp,Hồ Chí Minh,29/10/2018 
 907031,"Cho thuê phòng mới xây siêu cao cấp tại đường số 2, trường thọ thủ đức",2.7,20.0,Thủ Đức,Hồ Chí Minh,29/10/2018 
@@ -252,8 +251,8 @@ Id,Title,Price(Triệu/tháng),Square(m²),District,City,Date
 1233467,Cho thuê phòng 35m2 thoáng mát giờ giấc tự do chính chủ quận Phú Nhuận,4.0,35.0,Phú Nhuận,Hồ Chí Minh,17/12/2018 
 1244670,"Chính chủ cho thuê 2 phòng trọ rộng rãi thoáng mát, quận Tân Bình, HCM",3.2,20.0,Tân Bình,Hồ Chí Minh,18/01/2019 
 1247426,Cho thuê Phòng trọ cao cấp ngã tư Phú Nhuận 3tr/tháng,3.0,13.0,Phú Nhuận,Hồ Chí Minh,18/12/2018 
-1258943,"Phòng Huỳnh Văn Bánh, giờ giấc tự do, thoải mái, xem là thích",3.5,22.0,Phú Nhuận,Hồ Chí Minh,20/12/2018  
-1264150,Cho thuê phòng trọ sạch sẽ thoáng mát - Tôn Thất Thuyết quận 4,2.5,20.0,Quận 4,Hồ Chí Minh,21/12/2018 
+1258943,"Phòng Huỳnh Văn Bánh, giờ giấc tự do, thoải mái, xem là thích",3.5,22.0,Phú Nhuận,Hồ Chí Minh,20/12/2018 
+1264150,Cho thuê phòng trọ sạch sẽ thoáng mát - Tôn Thất Thuyết quận 4,2.5,20.0,Quận 4,Hồ Chí Minh, 21/12/2018 
 1275601,Cho thuê phòng trọ máy lạnh có nội thất Quận Tân Phú ,3.7,30.0,Tân Phú,Hồ Chí Minh,23/12/2018 
 1277192,"Cho thuê phòng trọ KTX , đủ tiện nghi,Cộng Hòa và Bảy Hiền chỉ từ 900k",1.0,20.0,Tân Bình,Hồ Chí Minh,23/12/2018 
 1283030,"Cho thuê phòng trò giá bình dân đường Lê Văn Sỹ, Phường 10, quận Phú Nhuận",1.9,20.0,Phú Nhuận,Hồ Chí Minh,24/12/2018 
@@ -324,7 +323,7 @@ Id,Title,Price(Triệu/tháng),Square(m²),District,City,Date
 1443237,"Phòng KTX máy lạnh 450k/tháng , Phước Kiển, huyện Nhà Bè",0.45,35.0,Nhà Bè,Hồ Chí Minh,21/03/2019 
 1443335,"Cho thuê nhà diện tích 34m2 Ngô Tất Tố, Bình Thạnh, HCM ( lầu 1)",3.5,34.0,Bình Thạnh,Hồ Chí Minh,22/03/2019 
 1443423,"Phòng trọ 30m2, 2,3 triệu/tháng, khu dân cư Nam Hùng Vương-Bình Tân-HCM.",2.3,30.0,Bình Tân,Hồ Chí Minh,22/03/2019 
-1443550,"Cho thuê phòng cao cấp ở trung tâm quận 1 đầy đủ tiện nghi, giá rẻ",6.0,45.0,Quận 1,Hồ Chí Minh,23/03/2019 
+1443550,"Cho thuê phòng cao cấp ở trung tâm quận 1 đầy đủ tiện nghi, giá rẻ",6.0,45.0,Quận 1,Hồ Chí Minh,23/03/2019  
 1443570,"Cho thuê phòng trọ KTX full đồ đường Cộng Hòa, Bình Tân, 900k/tháng",0.9,20.0,Tân Bình,Hồ Chí Minh,23/03/2019 
 1443656,"Cho thuê phòng đầy đủ tiện nghi Phường 13, quận Tân Bình, Hồ Chí Minh",3.6,14.0,Tân Bình,Hồ Chí Minh,24/03/2019 
 1443662,"Tìm nữ ở ghép đường 7, phường Tân Tạo A, quận Bình Tân, Hồ Chí Minh",1.5,16.0,Bình Tân,Hồ Chí Minh,24/03/2019 
@@ -350,7 +349,7 @@ Id,Title,Price(Triệu/tháng),Square(m²),District,City,Date
 1447177,"Cho thuê phòng đường Hồ Đắc Di, phường Tây Thạnh, Tân Phú, Hồ Chí Minh",2.5,30.0,Tân Phú,Hồ Chí Minh,15/04/2019 
 1447284,"Cho thuê phòng trọ hẻm 63 Quang trung phường10, Gò Vấp",1.5,16.0,Gò Vấp,Hồ Chí Minh,16/04/2019 
 1449205,Phòng trọ đẹp 35m2 Quận 3 Gần khu vui chơi thỏ trắng,4.5,35.0,Quận 3,Hồ Chí Minh,28/04/2019 
-1449212,Cho thuê phòng trọ quận Tân Bình gần ngã tư Bảy Hiền,5.0,30.0,Tân Bình,Hồ Chí Minh,29/04/2019  
+1449212,Cho thuê phòng trọ quận Tân Bình gần ngã tư Bảy Hiền,5.0,30.0,Tân Bình,Hồ Chí Minh,29/04/2019 
 1449272,Phòng trọ đường Phạm Văn Đồng - Phan Văn Trị - Bình Thạnh,2.0,25.0,Bình Thạnh,Hồ Chí Minh,30/04/2019 
 1449316,"Cho thuê phòng trọ quận 4, đường Tôn Thất Thuyết diện tích 36m2",3.5,36.0,Quận 4,Hồ Chí Minh,01/05/2019 
 1449493,"Tìm 1 bạn nữ ở ghép, Phước Long A, Q9, giá 700k/th",0.7,50.0,Quận 9,Hồ Chí Minh,02/05/2019 
@@ -361,13 +360,12 @@ Id,Title,Price(Triệu/tháng),Square(m²),District,City,Date
 1450255,"Chính chủ cần cho thuê phòng tại Hẻm 95 Lê Văn Lương, Q.7, TP HCM",5.5,35.0,Quận 7,Hồ Chí Minh,07/05/2019 
 1450302,Cho thuê phòng Quận 10 full nội thất đường Sư Vạn Hạnh,4.8,15.0,Quận 10,Hồ Chí Minh,07/05/2019 
 1450314,"Cho thuê phòng khép kín, có máy lạnh, gần siêu thị Lottle Mart, Quận 7",3.0,15.0,Quận 7,Hồ Chí Minh,07/05/2019 
-1450703,"Cho thuê phòng trọ 27m2 đường Nguyễn Khoái, Phường 2, quận 4, Hồ Chí Minh",3000000.0,27.0,Quận 4,Hồ Chí Minh,09/05/2019 
 1451081,"Nhà cho thuê nguyên căn sát Q.1, giá 7 triệu/tháng Bình Thạnh,Thị Nghè",7.0,80.0,Bình Thạnh,Hồ Chí Minh,10/05/2019 
-1451218,"Phòng trọ Quận Tân Bình, Phường 13, gần Etown, chợ Hoàng Hoa Thám, có gác lửng, không chung chủ",2.5,25.0,Tân Bình,Hồ Chí Minh,11/05/2019 
+1451218,"Phòng trọ Quận Tân Bình, Phường 13, gần Etown, chợ Hoàng Hoa Thám, có gác lửng, không chung chủ",2.5,25.0,Tân Bình,Hồ Chí Minh,11/05/2019  
 1453104,"Cho thuê phòng trọ cao cấp 40 m2, phường Phước Long B, Quận 9, Tp.HCM",3.5,40.0,Quận 9,Hồ Chí Minh,22/05/2019 
 1453249,Phòng trọ cho thuê ở phường 10 quận Gò Vấp,3.5,35.0,Gò Vấp,Hồ Chí Minh,23/05/2019 
 1453720,"Phòng trọ an ninh giá rẻ tại đường Minh Phụng quận 11 giá 1,5 triệu",1.5,12.0,Quận 11,Hồ Chí Minh,25/05/2019 
-1453914,"Cho thuê phòng trọ cao cấp, miễn phí Wifi + TH cáp + máy giặt",3.5,15.0,Tân Bình,Hồ Chí Minh,25/05/2019 
+1453914,"Cho thuê phòng trọ cao cấp, miễn phí Wifi + TH cáp + máy giặt",3.5,15.0,Tân Bình,Hồ Chí Minh, 25/05/2019 
 1453984,"Phòng Đẹp Mới Xây Cho Thuê, Có Gác Lửng, Tiện Nghi Đầy Đủ - Đường Huỳnh Tấn Phát, Quận 7",3.5,23.0,Quận 7,Hồ Chí Minh,27/05/2019 
 1454137,Phòng trọ dịch vụ Thích Quảng Đức-Phú Nhuận diện tích 20m2,4.5,18.0,Phú Nhuận,Hồ Chí Minh,27/05/2019 
 1454144,Phòng trọ dịch vụ Thích Quảng Đức-Phú Nhuận diện tích 18m2,4.5,18.0,Phú Nhuận,Hồ Chí Minh,27/07/2019 
@@ -420,7 +418,7 @@ Id,Title,Price(Triệu/tháng),Square(m²),District,City,Date
 1467022,Phòng trọ mới xây gò vấp giá thương lượng ưu tiên sinh viên công nhân ,2.0,12.0,Gò Vấp,Hồ Chí Minh,23/07/2019 
 1467240,"Cho thuê phòng trọ tại Trần Đình Xu, Quận 1, Tp.Hồ Chí Minh",1.8,22.0,Quận 1,Hồ Chí Minh,23/07/2019 
 1467344,"Chính chủ cho thuê phòng tiện nghi, sạch sẽ tại Trần Văn Đang, TP HCM.",3.1,18.0,Quận 3,Hồ Chí Minh,24/07/2019 
-1467425,"Cho thuê phòng trọ đẹp có ban công, giờ giấc tự do",2.8,22.0,Tân Bình,Hồ Chí Minh,24/07/2019 
+1467425,"Cho thuê phòng trọ đẹp có ban công, giờ giấc tự do",2.8,22.0,Tân Bình,Hồ Chí Minh, 24/07/2019 
 1467521,"Cần cho thuê phòng, nội thất cơ bản, sạch sẽ tại Nguyễn Hữu Cảnh, HCM",5.0,20.0,Bình Thạnh,Hồ Chí Minh,24/07/2019 
 1468403,"Tuyển 2 nữ ở ghép ngay quận 8, phòng rộng thoáng mát, giá cá hợp lí",3.5,30.0,Quận 8,Hồ Chí Minh,27/07/2019 
 1468996,"Phòng trọ 2tr./tháng, P. An lạc, Q. Bình tân, gần Đại lộ Võ Văn kiệt.",2.0,28.0,Bình Tân,Hồ Chí Minh,19/06/2020 
@@ -436,11 +434,9 @@ Id,Title,Price(Triệu/tháng),Square(m²),District,City,Date
 1475895,"Cho thuê phòng cao cấp, full nội thất, Đường D1, Bình Thạnh, giá tốt",5.0,30.0,Bình Thạnh,Hồ Chí Minh,27/08/2019 
 1477792,Cho thuê phòng và căn hộ dịch vụ gần ngay đại học HUTECH,6.0,25.0,Bình Thạnh,Hồ Chí Minh,04/09/2019 
 1478249,Hãy đến với GEN Co - Living Space để trải nghiệm sự đẳng cấp,2.0,50.0,Quận 7,Hồ Chí Minh,05/10/2019 
-1478477,"Phòng trọ cho thuê,giá 1tr6/tháng.phòng riêng,mọi sinh hoạt riêng",1600000.0,16.0,Gò Vấp,Hồ Chí Minh,06/09/2019 
 1478866,Cho thuê phòng trọ 18m2 trung tâm quận 10,2.5,18.0,Quận 10,Hồ Chí Minh,07/09/2019 
 1478928,"Cho thuê Ktx đường Đinh Bộ Lĩnh, Phường 26, quận Bình Thạnh, Hồ Chí Minh",1.1,8.0,Bình Thạnh,Hồ Chí Minh,08/09/2019 
 1479342,Cho thuê phòng đẹp trung tâm quận 3 giờ giấc tự do,4.0,20.0,Quận 3,Hồ Chí Minh,09/09/2019 
-1479914,Phòng trọ cho thuê đường nguyễn ảnh thủ quận 12- hồ chí minh,1500000.0,18.0,Quận 12,Hồ Chí Minh,11/09/2019 
 1480092,"Cho thuê nhà nằm trên đường Ngô Quyền phường 12,quận 5, ngay ngã tư Ngô Quyền –Nguyễn Chí Thanh",3.0,45.0,Quận 5,Hồ Chí Minh,11/09/2019 
 1480093,"Cho thuê phòng quận 5, yên tĩnh , sạch sẽ , khu an ninh",6.5,32.0,Quận 5,Hồ Chí Minh,11/09/2019 
 1481538,"Phòng Trọ Cho Thuê 18-24m, Sạch Sẽ, Thoáng Mát, Gần Chợ",3.0,18.0,Nhà Bè,Hồ Chí Minh,17/09/2019 
@@ -517,7 +513,7 @@ Id,Title,Price(Triệu/tháng),Square(m²),District,City,Date
 1509894,"Cho thuê phòng trọ nội thất cơ bản, free mọi chi phí",4.0,10.0,Quận 4,Hồ Chí Minh,28/11/2019 
 1510289,"Phòng cho thuê tại 65/3/7 Trần Văn Dư, Phường 13, Quận Tân Bình (Nhà gần E-Town Cộng Hòa)",3.0,22.0,Tân Bình,Hồ Chí Minh,23/10/2020 
 1510761,Phòng cho thuê Quận 6 TPHCM 14-25m2 gần vòng xoay phú lâm,1.0,14.0,Quận 6,Hồ Chí Minh,30/11/2019 
-1511004,"Cho thuê phòng có máy lạnh, có gác, ful nội thất tại 654/32 Lạc Long Quân, P. 9, Q. Tân Bình (ngay ngã 4 Âu Cơ - Lạc Long Quân)",5.0,16.0,Tân Bình,Hồ Chí Minh,18/07/2022 
+1511004,"Cho thuê phòng có máy lạnh, có gác, ful nội thất tại 654/32 Lạc Long Quân, P. 9, Q. Tân Bình (ngay ngã 4 Âu Cơ - Lạc Long Quân)",5.0,16.0,Tân Bình,Hồ Chí Minh,18/07/2022  
 1511026,"Cho thuêu phòng trọ phường 7 quận 8: 1,5 trđ/tháng",1.5,10.0,Quận 8,Hồ Chí Minh,01/12/2019 
 1511092,"Cho thuê phòng trọ đẹp giá siêu rẻ, an ninh 100% tại Quận 7.",3.1,25.0,Quận 7,Hồ Chí Minh,02/12/2019 
 1511716,"Cho nữ thuê phòng full đồ, chung cư Luxgraden, Quận 7, giá 3.8 triệu.",3.8,20.0,Quận 7,Hồ Chí Minh,03/12/2019 
@@ -525,10 +521,8 @@ Id,Title,Price(Triệu/tháng),Square(m²),District,City,Date
 1516091,"Còn 4 phòng kiểu căn hộ mini mới, sạch sẽ ở đường Trịnh Đình Trọng, gần Tân Bình",2.99,25.0,Tân Phú,Hồ Chí Minh,13/12/2019 
 1517272,"Cho thuê phòng ở dịch vụ cao cấp 103/5 Trần Đình Xuân, Q1, chỉ 7tr/th",7.0,24.0,Quận 1,Hồ Chí Minh,16/12/2019 
 1517695,Cho thuê phòng trọ 2.000.000. Đối diện gigamall thủ đức,2.0,12.0,Thủ Đức,Hồ Chí Minh,17/12/2019 
-1518237,Phòng Trọ Phạm Văn Bạch 20m2 Gần Sân Bay Phòng Có Máy Lạnh,2.95,20.0,Tân Bình,Hồ Chí Minh,18/12/2019   
-1518924,"Cho thuê phòng trọ mới xây tại 119/40 An Dương Vương, Phường An Lạc, Quận Bình Tân, TP.HCM",2.5,22.0,Bình Tân,Hồ Chí Minh,19/12/2019 
-1518936,Cần sang hoặc cho thuê khách sạn một trệt ba lầu tại khu vực Tây ba lô,350.0,120.0,Quận 1,Hồ Chí Minh,19/12/2019 
-1518942,Cần sang GẤP hoặc cho thuê khách sạn một trệt ba lầu tại khu vực Tây ba lô,350.0,120.0,Quận 1,Hồ Chí Minh,19/12/2019 
+1518237,Phòng Trọ Phạm Văn Bạch 20m2 Gần Sân Bay Phòng Có Máy Lạnh,2.95,20.0,Tân Bình,Hồ Chí Minh,18/12/2019 
+1518924,"Cho thuê phòng trọ mới xây tại 119/40 An Dương Vương, Phường An Lạc, Quận Bình Tân, TP.HCM",2.5,22.0,Bình Tân,Hồ Chí Minh, 19/12/2019 
 1519428,"Cho thuê 2 phòng trọ hẻm xe hơi quay đầu, tại 129 đường số 2, Gò Vấp",2.0,15.0,Gò Vấp,Hồ Chí Minh,20/12/2019 
 1519461,Phòng mới xây ngay TTM GIGAMALL- Phạm Văn Đồng Thủ Đức,4.0,32.0,Thủ Đức,Hồ Chí Minh,20/12/2019 
 1519496,"Cho thuê phòng đẹp, mới seup 100% tại 12C Đường Cây Keo, Tân Phú",3.0,18.0,Tân Phú,Hồ Chí Minh,20/12/2019 
@@ -605,7 +599,7 @@ Id,Title,Price(Triệu/tháng),Square(m²),District,City,Date
 1554786,"Cho thuê phòng trọ đường phan huy ích F 14- Q.gò vấp giá : 2,4 triệu/tháng",2.4,25.0,Gò Vấp,Hồ Chí Minh,25/02/2021 
 1555981,"Cho thuê phòng đầy đủ nội thất như khách sạn, giá rẻ, tự do. Trung tâm q1 bờ kè hoàng sa mát mẻ",4.5,30.0,Quận 1,Hồ Chí Minh,24/04/2020 
 1556089,"Cho Thuê Phòng Trọ 25m2 tại Phường 16, Quận Gò Vấp",2.3,25.0,Gò Vấp,Hồ Chí Minh,24/04/2020 
-1556283,Cho thuê nhà trọ trong hẻm cụt quận Bình Thạnh HCM,4.2,32.0,Bình Thạnh,Hồ Chí Minh,25/04/2020 
+1556283,Cho thuê nhà trọ trong hẻm cụt quận Bình Thạnh HCM,4.2,32.0,Bình Thạnh,Hồ Chí Minh, 25/04/2020 
 1556594,"Phòng 15m2 – 20m2, cửa sổ, giếng trời đường 17 Linh Tây cho thuê.",2.2,20.0,Thủ Đức,Hồ Chí Minh,23/12/2020 
 1556824,"Chính chủ cho thuê nhà 12m2 tại Nguyễn Thái Học, Cầu Ông Lãnh, Q.1",2.5,12.0,Quận 1,Hồ Chí Minh,28/04/2020 
 1556861,"Cho thuê phòng cao cấp, hiện đại, full NT, giá rẻ tại Q12-Tân Bình-GV",4.0,30.0,Tân Bình,Hồ Chí Minh,28/04/2020 
@@ -748,14 +742,13 @@ Id,Title,Price(Triệu/tháng),Square(m²),District,City,Date
 1606438,"Căn hộ mini có gác, full nội thất. Mới xây 100% tại Quận 7.",4.0,20.0,Quận 7,Hồ Chí Minh,24/07/2020 
 1606897,"Phòng trọ Homestay ký túc xá giá 900k - Bảy Hiền, q Tân Bình",0.9,15.0,Tân Bình,Hồ Chí Minh,24/07/2020 
 1608195,Còn 1 phòng trống giá rẻ 2.5 triệu/tháng vào ở ngay,2.5,12.0,Quận 4,Hồ Chí Minh,27/07/2020 
-1608618,"Cho thuê phòng trọ khu vực quận Bình Thạnh, đường Ung Văn Khiêm",3.3,20.0,Bình Thạnh,Hồ Chí Minh, 27/07/2020 
+1608618,"Cho thuê phòng trọ khu vực quận Bình Thạnh, đường Ung Văn Khiêm",3.3,20.0,Bình Thạnh,Hồ Chí Minh,27/07/2020 
 1608696,Phòng trọ 16m2 đường Hồng Lạc Q.Tân Bình,2.1,16.0,Tân Bình,Hồ Chí Minh,27/07/2020 
 1609327,Cho thuê phòng full nội thất 1 phòng ngủ 30m2,5.2,30.0,Quận 3,Hồ Chí Minh,28/07/2020 
-1609416,"Cho thuê phòng trọ giá rẻ Đường Tân Chánh Hiệp 21, Q12, gần bv Q12",1.7,15.0,Quận 12,Hồ Chí Minh, 28/07/2020 
+1609416,"Cho thuê phòng trọ giá rẻ Đường Tân Chánh Hiệp 21, Q12, gần bv Q12",1.7,15.0,Quận 12,Hồ Chí Minh,28/07/2020 
 1609513,"Cho thuê phòng trọ mặt tiền Trần Bình Trọng, Bình Thạnh, giá từ 2.5tr",2.5,15.0,Bình Thạnh,Hồ Chí Minh,28/07/2020 
 1610082,"Cho thuê mặt bằng, nhà nguyên căn, phòng trọ giá 50 triệu ( có thương lượng )",50.0,5.25,Tân Bình,Hồ Chí Minh,29/07/2020 
 1610678,"Cho thuê mặt bằng, phòng trọ ở địa chỉ 16 Tân Canh, phường 1 Tân Bình ( có thương lượng )",50.0,5.25,Tân Bình,Hồ Chí Minh,30/07/2020 
-1611533,"COVID làm khủng hoảng kinh tế nên tôi cần về quê sống, ra đi dãy trọ 100m2 (5 phòng) Nguyễn Tăn Tạo giá chỉ có 3,05 tỷ",305.0,100.0,Nhà Bè,Hồ Chí Minh,30/08/2020 
 1613041,"Cho thuê nhà trên đường Ngô Quyền ,thuận tiên công việc, học tập",3.35,45.0,Quận 5,Hồ Chí Minh,03/08/2020 
 1613316,Cho thuê phòng trọ sạch đẹp giá mềm ở trung tâm quặn tân bình,4.0,33.0,Tân Bình,Hồ Chí Minh,03/08/2020 
 1613384,Cho thuê nhà nguyên căn gồm 9 căn hộ đầy đủ tiện nghi + 1 mặt bằng,50.0,125.0,Tân Bình,Hồ Chí Minh,03/08/2020 
@@ -799,9 +792,9 @@ Id,Title,Price(Triệu/tháng),Square(m²),District,City,Date
 1646179,"Phòng đẹp mới sửa cho thuê trung tâm Q.10, xách đồ vào ở ngay",5.0,32.0,Quận 10,Hồ Chí Minh,23/09/2020 
 1650748,Phòng trọ cho thuê đường Lê Đình Cẩn Quận Bình Tân TP.HCM,2.0,12.0,Bình Tân,Hồ Chí Minh,30/09/2020 
 1651607,"Cho thuê phòng trọ mới 14m2, có gác đúc, khu vực an ninh, yên tĩnh",1.5,14.0,Quận 12,Hồ Chí Minh,01/10/2020 
-1651684,"Phòng cho thuê an toàn, sạch sẽ, có WC trong phòng và không chung chủ",2.3,14.0,Quận 4,Hồ Chí Minh,01/10/2020 
-1651875,Cho Nữ thuê phòng trọ. quận Bình Tân. khu vực không ngập nước.,1.6,12.0,Bình Tân,Hồ Chí Minh, 01/10/2020 
-1652449,Căn hộ dịch vụ MỚI XÂY đường Hoàng Văn Thụ - Quận Phú Nhuận,5.3,25.0,Phú Nhuận,Hồ Chí Minh, 02/10/2020 
+1651684,"Phòng cho thuê an toàn, sạch sẽ, có WC trong phòng và không chung chủ",2.3,14.0,Quận 4,Hồ Chí Minh,01/10/2020  
+1651875,Cho Nữ thuê phòng trọ. quận Bình Tân. khu vực không ngập nước.,1.6,12.0,Bình Tân,Hồ Chí Minh,01/10/2020 
+1652449,Căn hộ dịch vụ MỚI XÂY đường Hoàng Văn Thụ - Quận Phú Nhuận,5.3,25.0,Phú Nhuận,Hồ Chí Minh,02/10/2020 
 1655123,Cho thuê phòng trọ đường S2 Phường Tây Thạnh Quận Tân Phú (KCN Tân Bình),1.0,22.0,Tân Phú,Hồ Chí Minh,06/10/2020 
 1655636,Phòng trọ giá rẻ cho thuê ở quận bình thạnh,2.2,15.0,Bình Thạnh,Hồ Chí Minh,07/10/2020 
 1655756,"Phòng trọ cho sinh viên nữ cho thuê gần trường Đại Học Học Sư Phạm, ĐH Sài Gòn, ĐH KH Tự Nhiên, Quận 1, 5",1.6,15.0,Quận 1,Hồ Chí Minh,07/10/2020 
@@ -958,7 +951,7 @@ Id,Title,Price(Triệu/tháng),Square(m²),District,City,Date
 1759120,"KTX ở ghép máy lạnh 700k trọn gói cho sinh viên, người đi làm Bình Thạnh",0.7,30.0,Bình Thạnh,Hồ Chí Minh,17/05/2021 
 1759824,"Ở ghép KTX Tân Bình giá rẻ 700k cho người đi làm, sinh viên.",0.7,30.0,Tân Bình,Hồ Chí Minh,19/06/2021 
 1761829,Cho thuê phòng trọ ngay chợ Hạnh Thông Tây không chung chủ,1.9,20.0,Gò Vấp,Hồ Chí Minh,23/04/2021 
-1763629,Phòng trọ cao cấp giá rẻ 20m2 Quận 3 Gần Công viên Lê Thị Riêng,3.0,20.0,Quận 3,Hồ Chí Minh,26/04/2021 
+1763629,Phòng trọ cao cấp giá rẻ 20m2 Quận 3 Gần Công viên Lê Thị Riêng,3.0,20.0,Quận 3,Hồ Chí Minh, 26/04/2021 
 1764553,"Cần cho thuê 3 phòng trọ riêng biệt, có cửa cổng riêng, mỗi phòng có nhà vệ sinh riêng, có lối đi riêng",1.3,20.0,Quận 12,Hồ Chí Minh,28/04/2021 
 1764642,Cho thuê căn hộ full nội thất 30m2 đường Huỳnh Tấn Phát Quận 7 giá 4 triệu,4.0,30.0,Quận 7,Hồ Chí Minh,28/04/2021 
 1765352,Phòng trọ giá rẻ ngay trung tâm quận 11 phù hợp HS-SV-CNV,1.5,14.5,Quận 11,Hồ Chí Minh,29/04/2021 
@@ -977,7 +970,7 @@ Id,Title,Price(Triệu/tháng),Square(m²),District,City,Date
 1772458,Chính chủ cho thuê lầu 2 full nội thất 76 m2,8.0,76.0,Quận 6,Hồ Chí Minh,14/05/2021 
 1772701,Phòng trọ đẹp giá rẻ 20m2 Quận 3 gần khu vui chơi thỏ trắng,3.3,20.0,Quận 3,Hồ Chí Minh,14/05/2021 
 1772744,Cho Thuê Phòng Đường Lê Đức Thọ bao điện nước rẻ,2.5,20.0,Gò Vấp,Hồ Chí Minh,14/05/2021 
-1773156,"Cho thuê căn hộ full nội thất, đường Lý Phục Man quận 7",5.5,20.0,Quận 7,Hồ Chí Minh, 15/05/2021  
+1773156,"Cho thuê căn hộ full nội thất, đường Lý Phục Man quận 7",5.5,20.0,Quận 7,Hồ Chí Minh,15/05/2021 
 1773158,"Cho thuê căn hộ dịch vụ đường Lâm Văn Bền quận 7, giảm giá nhân dịp khai trương",4.8,28.0,Quận 7,Hồ Chí Minh,15/05/2021 
 1773898,"Cho thuê phòng trọ đường lò siêu, phường 8, quận 11",2.5,20.0,Quận 11,Hồ Chí Minh,17/05/2021 
 1774368,"Cho thuê căn hộ dịch vụ full nội thất giá chỉ từ 6 triệu đến 9 triệu, đường Cách Mạng Tháng 8 Quận 10",6.8,30.0,Quận 10,Hồ Chí Minh,18/05/2021 
@@ -1005,7 +998,7 @@ Id,Title,Price(Triệu/tháng),Square(m²),District,City,Date
 1793310,"Phòng trọ mới đường hương lộ 2 , có thang máy , 22 m2 giá 2.5 tr / th",2.5,22.0,Bình Tân,Hồ Chí Minh,19/06/2021 
 1793879,Cho thuê phòng trọ full nội thất có cửa sổ 4tr/tháng đường 37 Lâm Văn Bền gần Lotte quận 7,4.0,22.0,Quận 7,Hồ Chí Minh,17/06/2021 
 1793909,Phòng trọ cao cấp nội thất cơ bản quận Bình Thạnh,4.8,13.0,Bình Thạnh,Hồ Chí Minh,17/06/2021 
-1796479,"Cho thuê nhà mặt tiền đường TCH05 Phường TCH, Quận 12. Diện tích 4x18",7.0,72.0,Quận 12,Hồ Chí Minh,21/06/2021 
+1796479,"Cho thuê nhà mặt tiền đường TCH05 Phường TCH, Quận 12. Diện tích 4x18",7.0,72.0,Quận 12,Hồ Chí Minh,21/06/2021  
 1796499,"Studio đầy đủ nội thất đường Lâm Văn Bền, quận 7, sát Lotte Mart từ 3tr – 3tr5",3.0,22.0,Quận 7,Hồ Chí Minh,21/06/2021 
 1797131,"Phòng Quận Tân Bình 30-45m² gần Etown, ban công riêng biệt, không chung chủ",4.5,30.0,Tân Bình,Hồ Chí Minh,22/06/2021 
 1798396,Cho thuê phòng trọ rộng rãi cửa số lớn ở được 4 người Lý Phục Man quận 7 giá chỉ 4 triệu,4.0,25.0,Quận 7,Hồ Chí Minh,24/06/2021 
