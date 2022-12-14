@@ -5,7 +5,7 @@ import joblib
 import os
 def predict(data):
     path = os.path.dirname(__file__)
-    lr = joblib.load(path + '/lr_model.sav')
+    lr = joblib.load(path + '/lr_model.sav') 
     return lr.predict(data) 
 
 
