@@ -1,4 +1,4 @@
-# Scrapy settings for colect_data project
+# Scrapy settings for collect_data project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,14 +7,14 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'colect_data'
+BOT_NAME = 'collect_data'
 
-SPIDER_MODULES = ['colect_data.spiders']
-NEWSPIDER_MODULE = 'colect_data.spiders'
+SPIDER_MODULES = ['collect_data.spiders']
+NEWSPIDER_MODULE = 'collect_data.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'colect_data (+http://www.yourdomain.com)'
+#USER_AGENT = 'collect_data (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -45,13 +45,13 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'colect_data.middlewares.ColectDataSpiderMiddleware': 543,
+#    'collect_data.middlewares.CollectDataSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'colect_data.middlewares.ColectDataDownloaderMiddleware': 543,
+#    'collect_data.middlewares.CollectDataDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -63,7 +63,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'colect_data.pipelines.ColectDataPipeline': 300,
+#    'collect_data.pipelines.CollectDataPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
@@ -86,7 +86,3 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
-
-# Set settings whose default value is deprecated to a future-proof value
-REQUEST_FINGERPRINTER_IMPLEMENTATION = '2.7'
-TWISTED_REACTOR = 'twisted.internet.asyncioreactor.AsyncioSelectorReactor'
