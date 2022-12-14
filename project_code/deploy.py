@@ -9,6 +9,12 @@ def predict(data):
 
 
 st.title("Dự đoán giá thuê phòng trọ sinh viên ở thành phố Hồ Chí Minh")
+st.subheader("Bản quyền thuộc về: ")
+st.text("Nguyễn Đức Tài - 20120568")
+st.text("Nguyễn Đăng Khương - 20120516")
+st.text("Bùi Hồng Dương - 20120273")
+st.text("Hoàng Đức Nhật Minh - 20120328")
+
 st.write('---')
 st.header("Nhập các tham số sau")
 
