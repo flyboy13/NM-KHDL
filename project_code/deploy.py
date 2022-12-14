@@ -2,9 +2,10 @@ import streamlit as st
 import pandas as pd 
 import numpy as np 
 import joblib
- 
+import os
 def predict(data):
-    lr = joblib.load('./lr_model.sav')
+    path = os.path.dirname(__file__)
+    lr = joblib.load(path + '/lr_model.sav')
     return lr.predict(data) 
 
 
