@@ -67,7 +67,6 @@ listOfCity = ['Bình Chánh', 'Bình Thạnh', 'Bình Tân', 'Gò Vấp', 'Hóc 
 'Quận 1', 'Quận 10', 'Quận 11', 'Quận 12', 'Quận 2', 
 'Quận 3', 'Quận 5', 'Quận 6', 'Quận 7', 'Quận 8', 'Quận 9', 'Thủ Đức', 'Tân Bình', 'Tân Phú']
 listOfCity.sort()
-print(listOfCity)
 pos = np.zeros(len(listOfCity))
 pos[listOfCity.index(district)] = 1 
 X = np.concatenate([pos, isNew, isNearCenter, hasFurniture, isWholeHouse, liveTogether, isApartment, [area]])
