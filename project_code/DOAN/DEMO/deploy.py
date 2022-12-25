@@ -11,17 +11,17 @@ def predict(data):
 
 st.title("Dự đoán giá thuê phòng trọ sinh viên ở thành phố Hồ Chí Minh")
 st.subheader("Bản quyền thuộc về: ")
-st.text("Nguyễn Đức Tài - 20120568")
-st.text("Nguyễn Đăng Khương - 20120516")
 st.text("Bùi Hồng Dương - 20120273")
 st.text("Hoàng Đức Nhật Minh - 20120328")
+st.text("Nguyễn Đức Tài - 20120568")
+st.text("Nguyễn Đăng Khương - 20120516")
 
 st.write('---')
 st.header("Nhập các tham số sau")
 
-district = st.selectbox("**Vị trí**", ('Bình Chánh', 'Bình Thạnh', 'Bình Tân', 'Củ Chi', 
-'Gò Vấp', 'Hóc Môn', 'Nhà Bè', 'Phú Nhuận', 'Quận 1', 'Quận 10', 'Quận 11', 'Quận 12', 
-'Quận 2', 'Quận 3', 'Quận 4', 'Quận 5', 'Quận 6', 'Quận 7', 'Quận 8', 'Quận 9', 'Thủ Đức', 
+district = st.selectbox("**Vị trí**", ('Bình Chánh', 'Bình Thạnh', 'Bình Tân', 
+'Gò Vấp', 'Hóc Môn', 'Nhà Bè', 'Phú Nhuận', 'Quận 1', 'Quận 10', 'Quận  11', 'Quận 12', 
+'Quận 2', 'Quận 3', 'Quận 5', 'Quận 6', 'Quận 7', 'Quận 8', 'Quận 9', 'Thủ Đức', 
 'Tân Bình', 'Tân Phú'))
 
 area = st.slider('**Diện tích (m2)**', 0, 200)
@@ -32,6 +32,11 @@ if isNew == "Mới":
 else: 
     isNew = [1, 0]
 
+isNearCenter = st.radio('**Có gần trung tâm không**', ("Có", "Không"))
+if isNearCenter == "Có":
+    isNearCenter = [0, 1]
+else: 
+    isNearCenter = [1, 0]
 
 hasFurniture = st.radio("**Phòng có nội thất hay không?**", ("Có", "Không")) 
 if hasFurniture == "Có":
@@ -39,24 +44,37 @@ if hasFurniture == "Có":
 else: 
     hasFurniture = [1, 0]
 
+isWholeHouse = st.radio("**Có phải phòng nguyên căn không?**", ("Có", "Không")) 
+if isWholeHouse == "Có":
+    isWholeHouse = [0, 1]
+else: 
+    isWholeHouse = [1, 0]
+
 liveTogether = st.radio("**Có ở ghép không?**", ("Có", "Không"))
 if liveTogether == "Có":
     liveTogether = [0,1] 
 else:
     liveTogether = [1,0]
 
-listOfCity = ['Bình Chánh', 'Bình Thạnh', 'Bình Tân', 'Củ Chi', 'Gò Vấp', 'Hóc Môn', 'Nhà Bè', 'Phú Nhuận', 
-'Quận 1', 'Quận 10', 'Quận 11', 'Quận 12', 'Quận 2', 
-'Quận 3', 'Quận 4', 'Quận 5', 'Quận 6', 'Quận 7', 'Quận 8', 'Quận 9', 'Thủ Đức', 'Tân Bình', 'Tân Phú']
-listOfCity.sort()
 
+isApartment = st.radio("**Có phải chung cư không?**", ("Có", "Không"))
+if isApartment == "Có":
+    isApartment = [0,1] 
+else:
+    isApartment = [1,0]
+
+listOfCity = ['Bình Chánh', 'Bình Thạnh', 'Bình Tân', 'Gò Vấp', 'Hóc Môn', 'Nhà Bè', 'Phú Nhuận', 
+'Quận 1', 'Quận 10', 'Quận 11', 'Quận 12', 'Quận 2', 
+'Quận 3', 'Quận 5', 'Quận 6', 'Quận 7', 'Quận 8', 'Quận 9', 'Thủ Đức', 'Tân Bình', 'Tân Phú']
+listOfCity.sort()
+print(listOfCity)
 pos = np.zeros(len(listOfCity))
 pos[listOfCity.index(district)] = 1 
-# print(pos.values)
-X = np.concatenate([[area], pos, isNew, hasFurniture, liveTogether])
+X = np.concatenate([pos, isNew, isNearCenter, hasFurniture, isWholeHouse, liveTogether, isApartment, [area]])
 if st.button('**Predict House Price**'): 
     # X = np.array([[area, district, isNew, hasFurniture, liveTogether]])
-    if X[0] < 5:
+    print(X)
+    if X[-1] < 5:
         st.text("Diện tích phòng trọ phải lớn hơn 5m2.")
     else:        
         cost = predict([X])
