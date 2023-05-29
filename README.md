@@ -1,6 +1,9 @@
 # NM-KHDL
 Đồ án KHDL
 
+Chủ đề: Khám phá và dự đoán giá thuê phòng trọ và nhà trọ ở tp HCM
+Scraw data at: https://ancu.me/cho-thue-nha-tro-phong-tro/
+
 
 
 
